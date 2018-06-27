@@ -93,6 +93,9 @@
       ],
       "@theia/bunyan/lib/*": [
         "packages/bunyan/src/*"
+      ],
+      "@theia/npm/lib/*": [
+        "packages/npm/src/*"
       ]
     },
     "plugins": [
